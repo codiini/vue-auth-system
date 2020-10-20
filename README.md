@@ -1,5 +1,7 @@
 # vue-auth-system
 
+## This is a small vue project which handles user logging in, creating account, route guards and verification using firebase
+
 ## Project setup
 ```
 yarn install
